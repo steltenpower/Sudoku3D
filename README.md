@@ -1,6 +1,6 @@
 # SudokuMorphedIntoPhysical3D
 
-First make a demo in [X3DOM](https://www.x3dom.org/), but then make it physical:
+First make a demo in [threeJS](https://three.js/), but then make it physical:
 
 A giant multi-color LEDcube (not 9x9x9 LEDs but 4x4x4 for practicality, placed on the corners of 3x3x3 cubes) is used as another way of representing state of a Sudoku being solved. Every LED has 4 possible states (colors):
 - this is still an option
