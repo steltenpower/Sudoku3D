@@ -17,3 +17,8 @@ I wonder
 
 plus: Sudoku is a nice problem to practice parallel programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
 
+PS, coding suggestions:
+
+https://stackoverflow.com/questions/14223249/how-can-i-set-the-position-of-a-mesh-before-i-add-it-to-the-scene-in-three-js/29175325
+
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
