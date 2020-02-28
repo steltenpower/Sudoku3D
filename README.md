@@ -1,14 +1,9 @@
 # SudokuMorphedIntoPhysical3D
 
-First make a demo in [threeJS](https://threejs.org), but then make it physical:
+From <img src="https://i.pinimg.com/736x/29/3d/8d/293d8d80dd44ca8d8f4acc24639d0e40--sudoku-kinder-sudoku-for-kids.jpg">to <img src="https://i.ebayimg.com/images/g/R3wAAOSwvuhbmLbn/s-l300.jpg">
 
-A giant multi-color LEDcube (not 9x9x9 LEDs but 4x4x4 for practicality, placed on the corners of 3x3x3 cubes) is used as another way of representing state of a Sudoku being solved. Every LED has 4 possible states (colors):
-- this is still an option
-- this is no longer an option
-- this is the solution
-- logical inconsistency
+See movie for how
 
-With giant I mean something you can climb through. When you tap the LED it changes from option to no longer an option. When you hold it longer it goes from option to solution. 
 
 I wonder
 - if it's fun to play
@@ -16,6 +11,8 @@ I wonder
 - if people figure out the logic if you don't tell 'm it's a representation of Sudoku
 
 plus: Sudoku is a nice problem to practice parallel programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
+
+
 
 PS, coding suggestions:
 
