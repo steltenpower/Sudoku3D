@@ -13,6 +13,8 @@ plus: Sudoku is a nice problem to practice parallel programming/logic on, and th
 
 PS, coding suggestions:
 
+http://dkobozev.github.io/webgl/led_cube/
+
 https://stackoverflow.com/questions/14223249/how-can-i-set-the-position-of-a-mesh-before-i-add-it-to-the-scene-in-three-js/29175325
 
 https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
