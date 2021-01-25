@@ -1,4 +1,4 @@
-# SudokuMorphedIntoPhysical3D
+# Sudoku3D (virtual and physical)
 
 From <img src="https://i.pinimg.com/736x/29/3d/8d/293d8d80dd44ca8d8f4acc24639d0e40--sudoku-kinder-sudoku-for-kids.jpg">to <img src="https://i.ebayimg.com/images/g/R3wAAOSwvuhbmLbn/s-l300.jpg">
 
