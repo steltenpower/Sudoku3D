@@ -7,7 +7,7 @@ I wonder
 - how people cooperate
 - if people figure out the logic if you don't tell 'm it's a representation of Sudoku
 
-plus: Sudoku is a nice problem to practice parallel programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
+plus: Sudoku is a nice problem to practice parallel playing/programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
 
 
 
