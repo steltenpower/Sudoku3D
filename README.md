@@ -4,7 +4,7 @@ What if you'd turn a (simplified) Sudoku like
 <img src="https://i.pinimg.com/736x/29/3d/8d/293d8d80dd44ca8d8f4acc24639d0e40--sudoku-kinder-sudoku-for-kids.jpg">
 into a 3D representation similar to
 <img src="https://i.ebayimg.com/images/g/R3wAAOSwvuhbmLbn/s-l300.jpg">
-where each LED is multi-colored to show if Z is the value to fill the X,Y square, maybe with: OFF=no (after tap), GREEN=yes (after hold), ORANGE=undetermined, RED=error
+but with horizontal distances varied a bit to show groups, where each LED is multi-colored to show if Z is the value to fill the X,Y square, maybe with: OFF=no (after tap), GREEN=yes (after hold), ORANGE=undetermined, RED=error
 
 I wonder
 - if it's fun to play
