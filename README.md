@@ -13,9 +13,9 @@ I wonder
 
 plus: Sudoku is a nice problem to practice parallel playing/programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
 
-It can be:
+It can be somewhat like ...
 - virtual: http://dkobozev.github.io/webgl/led_cube/
-- augmented: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZI6oJJFgACM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- augmented: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZI6oJJFgACM/0.jpg)](https://www.youtube.com/watch?v=ZI6oJJFgACM)
 - physical: <img src="https://www.playgroundworld.co.za/wp-content/uploads/2019/10/1.8-CLIMBING-CUBE-1.jpg">
 
 more links for implementation:
