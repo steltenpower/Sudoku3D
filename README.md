@@ -13,11 +13,12 @@ I wonder
 
 plus: Sudoku is a nice problem to practice parallel playing/programming/logic on, and this cube a nice thing to shape the rather low-level circuitry around.
 
-It can be virtual, augmented (replacing pattern on a real cube with generated image), or physical (climbing frame size).
+It can be:
+- virtual: http://dkobozev.github.io/webgl/led_cube/
+- augmented: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZI6oJJFgACM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- physical: <img src="https://www.playgroundworld.co.za/wp-content/uploads/2019/10/1.8-CLIMBING-CUBE-1.jpg">
 
-links for implementation:
+more links for implementation:
 =========================
-- https://www.youtube.com/watch?v=ZI6oJJFgACM
-- http://dkobozev.github.io/webgl/led_cube/
 - https://stackoverflow.com/questions/14223249/how-can-i-set-the-position-of-a-mesh-before-i-add-it-to-the-scene-in-three-js/29175325
 - https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
