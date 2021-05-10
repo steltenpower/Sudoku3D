@@ -17,6 +17,7 @@ It can be somewhat like ...
 - virtual: <a href="http://dkobozev.github.io/webgl/led_cube/"><img src="https://pbs.twimg.com/media/CQQJ0mGU8AArubt?format=png&name=900x900"></a>
 - augmented: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZI6oJJFgACM/0.jpg)](https://www.youtube.com/watch?v=ZI6oJJFgACM)
 - physical: <img src="https://www.playgroundworld.co.za/wp-content/uploads/2019/10/1.8-CLIMBING-CUBE-1.jpg">
+- 2.5D : [play 2.5D Sudoku](http://steltenpower.com/sudosvg.php)
 
 more links for implementation:
 =========================
