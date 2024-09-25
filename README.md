@@ -6,6 +6,10 @@ into a 3D-representation similar to
 <img src="https://repository-images.githubusercontent.com/55097385/2ffa4f80-5398-11eb-9f54-8e6aaa2a3aa3">
 but with horizontal distances varied a bit to show groups, where each LED is multi-colored to show if Z is the value to fill the X,Y square, maybe with: OFF=no (after tap), GREEN=yes (after hold), ORANGE=undetermined, RED=error
 
+Old sketch: http://steltenpower.com/3Dsudoku.html
+
+2.5D: http://steltenpower.com/sudosvg.php
+
 I wonder
 - if it's fun to play
 - how people cooperate
