@@ -27,3 +27,5 @@ more links for implementation:
 =========================
 - https://stackoverflow.com/questions/14223249/how-can-i-set-the-position-of-a-mesh-before-i-add-it-to-the-scene-in-three-js/29175325
 - https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+Zou KITT geinteresseerd zijn? https://kitt.nl/techniek-achter-interactieve-speeltoestellen/
